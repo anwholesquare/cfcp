@@ -1,0 +1,1 @@
+{"name":"Local: submit copy","url":"/Users/anan/Documents/CP-REPO/coder/submit copy.cpp","tests":[{"id":1659707634986,"input":"2\n8\nfootball\n8\nFOOTBALL","output":"Case #1: Yes 32\nCase #2: No 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/coder/submit copy.cpp","group":"local","local":true}
