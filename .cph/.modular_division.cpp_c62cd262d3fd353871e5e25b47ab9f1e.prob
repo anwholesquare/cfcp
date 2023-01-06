@@ -1,0 +1,1 @@
+{"name":"Local: modular_division","url":"/Users/anan/Documents/CP-REPO/modular_division.cpp","tests":[{"id":1670578602605,"input":"1\n3 4 7","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/modular_division.cpp","group":"local","local":true}

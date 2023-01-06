@@ -1,0 +1,1 @@
+{"name":"Local: bb1","url":"/Users/anan/Documents/CP-REPO/bb1.cpp","tests":[{"id":1663079076059,"input":"10 3\n10 20 30 40 100 200 300 400 50 60\n1000 2000\n25 50\n90 290","output":"0\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/bb1.cpp","group":"local","local":true}

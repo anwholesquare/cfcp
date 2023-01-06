@@ -1,0 +1,1 @@
+{"name":"Local: fff1","url":"/Users/anan/Documents/CP-REPO/fff1.cpp","tests":[{"id":1663164869717,"input":"8\nInsert Back 8\nGet Front\nInsert Front 9\nGet Max\nErase Back\nInsert Back 3\nGet Back\nGet Min","output":"8\n9\n3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/fff1.cpp","group":"local","local":true}

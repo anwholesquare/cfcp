@@ -1,0 +1,1 @@
+{"name":"Local: bbb1","url":"/Users/anan/Documents/CP-REPO/bbb1.cpp","tests":[{"id":1663162852833,"input":"1\n4\ngang1 10\ngang2 30\ngang3 50\ngang4 3","output":"gang3\ngang2\ngang1\ngang4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/bbb1.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ee1","url":"/Users/anan/Documents/CP-REPO/ee1.cpp","tests":[{"id":1663077466934,"input":"2\n2\n3","output":"1 2 1\n1 3 3 1"},{"id":1663078288830,"input":"1\n50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/ee1.cpp","group":"local","local":true}

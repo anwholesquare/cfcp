@@ -1,0 +1,1 @@
+{"name":"Local: ccc1","url":"/Users/anan/Documents/CP-REPO/ccc1.cpp","tests":[{"id":1663163925079,"input":"((()()))","output":"Yes"},{"id":1663163934561,"input":"((()(","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/ccc1.cpp","group":"local","local":true}
