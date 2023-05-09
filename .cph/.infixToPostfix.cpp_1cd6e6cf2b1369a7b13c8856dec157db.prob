@@ -1,0 +1,1 @@
+{"name":"Local: infixToPostfix","url":"/Users/anan/Documents/CP-REPO/infixToPostfix.cpp","tests":[{"id":1673977264804,"input":"1+2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/infixToPostfix.cpp","group":"local","local":true}

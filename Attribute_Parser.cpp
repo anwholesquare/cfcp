@@ -91,18 +91,7 @@ int main() {
             attr[subtag] = attrFinder(s);
         }
     } 
-
-    // for (auto it = tags.begin(); it != tags.end(); it++) {
-    //     cout << it->first << endl;
-    //     auto stags = it->second;
-    //     for (auto it1 = stags.begin(); it1 != stags.end(); it1++) {
-    //         cout << it1->first << " " << it->second<< endl;
-    //     }
-    // }
-
-    // cout << endl;
-
-    
+  
     for (int i =0; i<m; i++) {
         string s;
         getline(cin,s);
