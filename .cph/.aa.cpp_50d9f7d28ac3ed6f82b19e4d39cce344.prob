@@ -1,0 +1,1 @@
+{"name":"Local: aa","url":"/Users/anan/Documents/CP-REPO/aa.cpp","tests":[{"id":1690635677821,"input":"5 4\n3 5 2\n5 1 8\n1 2 5\n3 4 1\n2\n5 4\n4 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/aa.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dd","url":"/Users/anan/Documents/CP-REPO/dd.cpp","tests":[{"id":1690642605819,"input":"6 2\n2 4 6 6 5 2\n2 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/anan/Documents/CP-REPO/dd.cpp","group":"local","local":true}
